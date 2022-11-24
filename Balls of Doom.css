@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+span {
+    font-weight: bold;
+}
+.Description {
+font-family: 'Times New Roman';
+font-size: 16px;
+}
+.Controls {
+    font-family: 'Times New Roman';
+    font-size: 16px;
+}
+.AboutUs {
+    font-family: 'Times New Roman';
+}
+.Subheading {
+    font-family: 'Gill Sans';
+    font-weight: bold;
+}
+.header {
+    background-color: aquamarine;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+body {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.other {
+    padding-left: 10px;
+}
+
+.text-header {
+    padding-left: 10px;
+}
